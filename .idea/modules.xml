@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TenkiWeather.iml" filepath="$PROJECT_DIR$/TenkiWeather.iml" />
+      <module fileurl="file://E:\dev\my_projects\android\tenkiweather\TenkiWeather.iml" filepath="E:\dev\my_projects\android\tenkiweather\TenkiWeather.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\dev\my_projects\android\tenkiweather\app\app.iml" filepath="E:\dev\my_projects\android\tenkiweather\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tenkiweather.iml" filepath="$PROJECT_DIR$/tenkiweather.iml" />
     </modules>
   </component>
 </project>
